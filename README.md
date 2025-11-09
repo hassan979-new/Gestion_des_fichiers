@@ -105,16 +105,26 @@ Méthode :
 - log(level, message) : ajoute une ligne de log horodatée dans le fichier
 ## 🖥️ Example Execution
 
-
-### Séparer proprement une classe unique :
-
-### Mini-bibliothèque géométrique : 
-
-### Création d’une librairie statique (.a) ou partagée (.so) :
-
-### Classe template et fichier d’en-tête uniquement :
-
-
+### FileReader/FileWriter, BufferedReader/BufferedWriter, Files : 
+##### output Main :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/341e955c-2c10-4fa8-9705-d537783e01d2" />
+##### data.csv :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/3c0dd200-98a0-45f0-b19d-320276251709" />
+##### passed.csv :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/48c5ddd3-ae94-4ec4-bf0c-f83d41103ce4" />
+##### input.txt
+- <img width="480" height="197" alt="image" src="https://github.com/user-attachments/assets/2ded5005-b95b-45f5-9135-6fa4a722f937" />
+##### output.txt
+- <img width="480" height="197" alt="image" src="https://github.com/user-attachments/assets/c5c769ee-8cf7-4cb5-a9fc-fc47a90a10c3" />
+### PrintWriter et BufferedReader :
+##### output Main :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/dbf127a8-0515-4753-9db3-538118c8d637" />
+##### application.log :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/1367f79b-8695-4819-ad1d-df6e56d9405a" />
+##### index.html :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/9c5ed4f9-a20d-48df-9c09-ef2697fda6f4" />
+##### report.csv :
+- <img width="480" height="169" alt="image" src="https://github.com/user-attachments/assets/13620891-ad96-4851-8132-33a26314d22a" />
 ## 💡 Concepts Practiced
 
 - Utiliser les flux de lecture et d’écriture pour manipuler des fichiers
